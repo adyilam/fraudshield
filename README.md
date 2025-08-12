@@ -1,6 +1,7 @@
 # FraudShield
 
-Real-time fraud detection pipeline using Kafka, FastAPI, and machine learning
+FraudShield is a modular, real-time fraud detection system designed for high-throughput environments.
+It uses Apache Kafka for streaming, FastAPI for API services, and machine learning models for intelligent fraud detection.
 
 Real-time fraud detection pipeline (local).
 
