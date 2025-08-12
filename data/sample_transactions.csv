@@ -1,0 +1,6 @@
+amount,is_foreign,is_high_risk_country,num_recent_transactions,is_fraud
+100,0,0,1,0
+900,1,0,2,1
+50,0,0,0,0
+1200,1,1,0,1
+300,0,0,5,0
