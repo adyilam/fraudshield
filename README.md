@@ -1,4 +1,6 @@
-# FraudShield (Local)
+# FraudShield
+
+Real-time fraud detection pipeline using Kafka, FastAPI, and machine learning
 
 Real-time fraud detection pipeline (local).
 
