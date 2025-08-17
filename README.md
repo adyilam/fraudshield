@@ -46,6 +46,18 @@ uvicorn api.Fraud_api:app --reload
 python kafka/Kafka_producer.py    # in separate terminal to produce messages
 python kafka/Kafka_consumer.py   # in another terminal to consume & score
 ```
+6. Sample Swagger test
+   <img width="1399" height="654" alt="Screenshot 2025-08-16 at 9 45 34 PM" src="https://github.com/user-attachments/assets/3dc22629-e784-4a3b-903f-679f0527893e" />
+
+   <img width="1166" height="620" alt="Screenshot 2025-08-16 at 9 46 31 PM" src="https://github.com/user-attachments/assets/c4e653e4-51fd-4d18-b78c-8bef2fd788a9" />
+
+      <img width="728" height="654" alt="Screenshot 2025-08-16 at 9 49 21 PM" src="https://github.com/user-attachments/assets/622ec7f4-eff1-4edf-b1f2-96acfa7e7bdf" />
+
+     <img width="736" height="702" alt="Screenshot 2025-08-16 at 9 55 41 PM" src="https://github.com/user-attachments/assets/6ed78b46-b7de-4e00-a8f8-acb93fb8bd7e" />
+
+
+
+
 
 ## Notes
 - This is a local dev/demo setup. The model is synthetic for demonstration purposes.
