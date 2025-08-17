@@ -2,8 +2,12 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import joblib, os, numpy as np, pandas as pd
 
-app = FastAPI(title='FraudShield API')
+app = FastAPI(title='FraudShield API',
+             description = "Real-time fraud detection API using a trained model",
+             version = "1.0.0"
+              )
 
+# Load trained model
 MODEL_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'models', 'Fraud_model.pkl'))
 
 try:
@@ -11,6 +15,7 @@ try:
 except Exception as e:
     model = None
 
+# Request schema
 class Transaction(BaseModel):
     amount: float
     is_foreign: int = 0
