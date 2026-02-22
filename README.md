@@ -9,6 +9,8 @@ Real-time fraud detection pipeline (local).
 <img width="2416" height="952" alt="image" src="https://github.com/user-attachments/assets/f2f889e2-70ed-46c4-b91b-e3268c654b43" />
 
 
+# FastAPI service 
+a FastAPI service is a high-performance Python backend API that exposes endpoints to handle requests and return structured responses.
 ## Structure
 - api/Fraud_api.py — FastAPI app
 - model/Train_model.py — trains and saves models/Fraud_model.pkl
