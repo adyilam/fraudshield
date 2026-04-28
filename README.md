@@ -9,6 +9,11 @@ Real-time fraud detection pipeline (local).
 <img width="2416" height="952" alt="image" src="https://github.com/user-attachments/assets/f2f889e2-70ed-46c4-b91b-e3268c654b43" />
 
 
+<img width="632" height="597" alt="Screenshot 2026-04-19 at 8 19 48 PM" src="https://github.com/user-attachments/assets/0911c47c-6223-42d7-a381-d36d17d3d288" />
+
+
+
+
 # FastAPI service 
 A FastAPI service is a high-performance Python backend API that exposes endpoints to handle requests and return structured responses.
 ## Structure
