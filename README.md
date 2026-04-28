@@ -10,7 +10,7 @@ Real-time fraud detection pipeline (local).
 
 
 
-# Rdeal-Time Fraud Detection Flow
+# Real-Time Fraud Detection Flow
 <img width="632" height="597" alt="Screenshot 2026-04-19 at 8 19 48 PM" src="https://github.com/user-attachments/assets/0911c47c-6223-42d7-a381-d36d17d3d288" />
 
 
