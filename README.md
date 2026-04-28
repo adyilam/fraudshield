@@ -6,12 +6,10 @@ It uses Apache Kafka for streaming, FastAPI for API services, and machine learni
 Real-time fraud detection pipeline (local).
 
 # High Level Architecture diagram
-<img width="2416" height="952" alt="image" src="https://github.com/user-attachments/assets/f2f889e2-70ed-46c4-b91b-e3268c654b43" />
+<img width="703" height="214" alt="fraud_detaction-fraud_detection_high_level_diagram" src="https://github.com/user-attachments/assets/11a1bd37-c574-4f1f-af0a-0a4ee2f98b58" />
 
 
 <img width="632" height="597" alt="Screenshot 2026-04-19 at 8 19 48 PM" src="https://github.com/user-attachments/assets/0911c47c-6223-42d7-a381-d36d17d3d288" />
-
-
 
 
 # FastAPI service 
